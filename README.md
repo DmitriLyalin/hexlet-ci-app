@@ -1,3 +1,5 @@
+
+[![show-file](https://github.com/DmitriLyalin/hexlet-ci-app/actions/workflows/show-file.yml/badge.svg)](https://github.com/DmitriLyalin/hexlet-ci-app/actions/workflows/show-file.yml)
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
