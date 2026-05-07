@@ -13,9 +13,9 @@ jobs:
       # checkout — клонирует репозиторий
       - uses: actions/checkout@v4
       # run – произвольная bash-команда
-      name: setup
-      - run: make setup 
-      name:  run tests
-      - run: make test
-      name: ckeck lint
-      - run: make lint
+      - name: setup
+        run: make setup 
+      - name:  run tests
+        run: make test
+      - name: ckeck lint
+        run: make lint
