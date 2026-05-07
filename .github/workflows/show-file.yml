@@ -16,6 +16,6 @@ jobs:
       name: setup
       - run: make setup 
       name:  run tests
-      - run :make test
+      - run: make test
       name: ckeck lint
       - run: make lint
